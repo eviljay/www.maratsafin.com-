@@ -1,0 +1,503 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html dir="ltr">
+
+<head>
+<title>Marat Safin Official - Forum</title>
+<meta name="title" content="Marat Safin Official">
+<meta name="description" content="Marat Safin Official">
+<meta name="keywords" content="Marat Safin Official">
+<meta name="copyright" content="Copyright © Marat Safin Official, 2005. All rights reserved.">
+<meta name="author" content="COMRAX(r) LTD.">
+<meta name="generator" content="COMRAX(r) LTD.">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+<link rel="stylesheet" type="text/css" href="/style.php">
+<script language="JavaScript" type="text/javascript" src="/portalce.js"></script>
+<script language="JavaScript" type="text/javascript" src="/common.php"> </script>
+<script language="JavaScript" type="text/javascript" src="/rollover.js"></script>
+</head>
+
+<body><center>
+
+<!-- full body with bg -->
+<table height="100%" width="100%" class="full_page_bg" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<!-- full height inner table -->
+<td class="gen-align-center-top"><table class="specific-table-size" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<!-- top inner table -->
+<td class="gen-align-center-top"><table class="gen-align-top" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="top_lines_bg gen-align-top"><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="1" height="1"></td>
+</tr>
+
+<tr>
+<td class="gen-align-top" height="10"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/header-left.gif" border="0" width="61" height="67"></td>
+<td><a href="/"><img src="http://www.maratsafin.com/Images/header-image.gif" border="0" width="219" height="67"></a></td>
+<td><img src="http://www.maratsafin.com/Images/header-right.gif" border="0" width="469" height="67"></td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td class="gen-align-top" height="10"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="11" height="1"></td>
+<td class="top_menu_width"><table border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="41" height="1"></td>
+<td><a href="/"><img src="http://www.maratsafin.com/Images/menu_home_off.gif" border="0" width="50" height="23"></a></td>
+<td><a href="/content.php?did=10"><img src="http://www.maratsafin.com/Images/menu_news_off.gif" border="0" width="48" height="23"></a></td>
+<td><a href="/content.php?did=4"><img src="http://www.maratsafin.com/Images/menu_personal_off.gif" border="0" width="108" height="23"></a></td>
+<td><a href="/content.php?did=2"><img src="http://www.maratsafin.com/Images/menu_schedule_off.gif" border="0" width="72" height="23"></a></td>
+<td><a href="/club.php"><img src="http://www.maratsafin.com/Images/menu_club_off.gif" border="0" width="68" height="23"></a></td>
+<td><a href="/content.php?did=9"><img src="http://www.maratsafin.com/Images/menu_resources_off.gif" border="0" width="52" height="23"></a></td>
+<td><a href="/forums/"><img src="http://www.maratsafin.com/Images/menu_forum_off.gif" border="0" width="53" height="23"></a></td>
+<td><a href="/contact.php"><img src="http://www.maratsafin.com/Images/menu_contact_off.gif" border="0" width="82" height="23"></a></td>
+</tr>
+
+</table></td>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="9" height="1"></td>
+</tr>
+
+</table></td>
+</tr>
+
+
+<!-- Body Wrap -->
+<tr>
+<td class="gen-align-top"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="11" height="1"></td>
+<td class="body_width" height="100%">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="header-menu-box" style="background: url('http://www.maratsafin.com/Images/header-image-03.jpg') top left no-repeat; height: 98px;"></td>
+</tr>
+
+<!-- start of main body area -->
+<tr>
+<td class="content-body" height="100%"><table width="100%" cellspacing="0" cellpadding="1" border="0">
+<tr>
+  <td align="left" nowrap  bgcolor="#527B8A"><FONT color='#003549'>&nbsp;<a class=nav href="list.php?f=5">List of Topics</a>&nbsp;|&nbsp;<a class=nav href="post.php?f=5"><b>Post Message</b></a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5&collapse=1">Collapse Threads</a>&nbsp;|&nbsp;<a class=nav href="search.php?f=5">Search</a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5&r=1">Cancel "new" Sign</a>&nbsp;</font></td>
+  <td align="right" nowrap  bgcolor="#527B8A">&nbsp;<a class=nav href="list.php?f=5&t=14087&a=1">Next Page >></a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5&t=13933&a=2"><< Previous Page</a>&nbsp;</font></td>
+</tr>
+</table>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- //
+
+	function businesscard(mod_id) {
+		if(mod_id > 0) {
+			window.open("businesscard.php?mod=" + mod_id,"_business_card","height=420,width=380,toolbar=no,statusbar=no,scrollbars=yes").focus();
+		}
+	}
+
+// -->
+</SCRIPT>
+<br>
+<TABLE WIDTH="100%" CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR>
+    <TD HEIGHT=21 bgcolor="#A5BEC6" WIDTH="100%"><FONT COLOR="#FFFFFF">&nbsp;Topics</FONT></TD>
+    <TD HEIGHT=21 bgcolor="#A5BEC6" NOWRAP WIDTH=150><FONT COLOR="#FFFFFF">Author&nbsp;</FONT></TD>
+    <TD HEIGHT=21 bgcolor="#A5BEC6" NOWRAP WIDTH=100><FONT COLOR="#FFFFFF">Date</FONT></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14087&t=14087">Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">henry&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 07:51&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14117&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">mona lisa&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 08:13&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14136&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">mounia451&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 08:20&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14187&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">natacha&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 09:41&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14382&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Laכtitia&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 14:56&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14567&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">Emily Safina&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">14-04-2005 00:45&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/trans.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14829&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Hillary&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">14-04-2005 06:59&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14148&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">amy ai&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 08:25&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14164&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">anton&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 09:27&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14227&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">Pau&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 12:25&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14280&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">coco&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 12:53&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14349&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">italian&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 13:58&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14424&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Cristina&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 17:30&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14441&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">daisy&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 18:03&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14501&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Ivy&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 20:58&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14518&t=14087">RE: Marat vs. Ferrero in third round!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">Elise&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 21:45&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/n.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14053&t=14053">ur great</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">shivani&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 07:15&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/n.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14048&t=14048">Third round,Beat Fererro</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">zhang Peng&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:42&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14039&t=14039">Congrats to Marat!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Susanna Grande&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:25&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14068&t=14039">RE: Congrats to Marat!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">rasmusina&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 07:32&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14019&t=14019">Good news : Marat won !!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Dara&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:09&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14033&t=14019">RE: Good news : Marat won !!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">nina&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:25&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/i.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14143&t=14019">RE: Good news : Marat won !!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">ALINE&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 08:24&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14093&t=14019">RE: Good news : Marat won !!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">Cherry&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 07:53&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14106&t=14019">RE: Good news : Marat won !!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">amy ai&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 08:08&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14173&t=14019">RE: Good news : Marat won !!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">valerie&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 09:37&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/n.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=13995&t=13995">Marat won second time</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">Juli&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:05&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/m.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=13933&t=13933">his second round begin!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">amy ai&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 05:19&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#DAE3E6"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#DAE3E6">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/t.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=13976&t=13933">RE: his second round begin!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#DAE3E6" nowrap><FONT COLOR="#08599C">daisy&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#DAE3E6" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:01&nbsp;</FONT></DIV></TD>
+</TR>
+  
+<TR VALIGN=middle>
+<TD bgcolor="#FFFFFF"><TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 BGCOLOR="#FFFFFF">
+<TR>
+<TD><IMG SRC="images/trans.gif" WIDTH=5 HEIGHT=21 BORDER=0><IMG SRC="images/l.gif" WIDTH=12 HEIGHT=21 BORDER=0><IMG SRC="images/c.gif" WIDTH=9 HEIGHT=21 BORDER=0></TD>
+<TD><FONT COLOR="#08599C">&nbsp;<a class=doctorLink href="read.php?f=5&i=14011&t=13933">RE: his second round begin!!!</a>&nbsp;&nbsp;</font><font face="MS Sans Serif,Geneva" size="-2" color="#FF0000">new</font></TD>
+</TR>
+</TABLE></TD>
+<TD bgcolor="#FFFFFF" nowrap><FONT COLOR="#08599C">zhang Peng&nbsp;&nbsp;</FONT></TD>
+<TD bgcolor="#FFFFFF" nowrap><DIV DIR="ltr" ALIGN="right"><FONT SIZE="-2" COLOR="#08599C">13-04-2005 06:07&nbsp;</FONT></DIV></TD>
+</TR>
+</TABLE>
+<table width="100%" cellspacing="0" cellpadding="1" border="0">
+<tr>
+  <td align="left" nowrap  bgcolor="#527B8A"><FONT color='#003549'>&nbsp;<a class=nav href="list.php?f=5">List of Topics</a>&nbsp;|&nbsp;<a class=nav href="post.php?f=5"><b>Post Message</b></a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5&collapse=1">Collapse Threads</a>&nbsp;|&nbsp;<a class=nav href="search.php?f=5">Search</a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5&r=1">Cancel "new" Sign</a>&nbsp;</font></td>
+  <td align="right" nowrap  bgcolor="#527B8A">&nbsp;<a class=nav href="list.php?f=5&t=14087&a=1">Next Page >></a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5&t=13933&a=2"><< Previous Page</a>&nbsp;</font></td>
+</tr>
+<tr align="left">
+  <td colspan="2"  bgcolor="#A5BEC6">
+  <FONT color="#FFFFFF">&nbsp;Page:</font>
+  <FONT color="#FFFFFF">&nbsp;<a class="pagenav" href="list.php?f=5&t=21105&a=2"><<</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=20928&a=2">50</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=20484&a=2">49</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=20109&a=2">48</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=19632&a=2">47</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=19012&a=2">46</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=18495&a=2">45</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=18247&a=2">44</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=17991&a=2">43</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=17573&a=2">42</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=17350&a=2">41</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=17128&a=2">40</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=16703&a=2">39</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=16348&a=2">38</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=16091&a=2">37</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=15659&a=2">36</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=15573&a=2">35</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=15065&a=2">34</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=14693&a=2">33</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=14373&a=2">32</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=14087&a=2">31</a>&nbsp;<b>30</b>&nbsp;<a class="pagenum" href="list.php?f=5&t=13442&a=2">29</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=13320&a=2">28</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=13141&a=2">27</a>&nbsp;<a class="pagenum" href="list.php?f=5&t=12562&a=2">26</a>&nbsp;<a class="pagenav" href="list.php?f=5&t=12129&a=2">>></a>&nbsp;</font>
+  </td>
+</tr>
+</table>
+
+<!-- end of main body area -->
+<table height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td>&nbsp;</td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td class="gen-align-bottom">&nbsp;</td>
+</tr>
+
+</table>
+
+
+<!-- end of body wrap -->
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="9" height="1"></td>
+</tr>
+
+</table></td>
+</tr>
+
+</table></td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td class="gen-align-center"><table class="specific-table-size" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td align="right">Copyright Marat Safin 2005, <a href="http://www.israeline.com/" target="_blank">Created by Israeline</a>.&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+
+</table></td>
+</tr>
+
+</table>
+
+</center></body>
+
+</html>

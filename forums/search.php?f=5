@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html dir="ltr">
+
+<head>
+<title>Marat Safin Official - Forum</title>
+<meta name="title" content="Marat Safin Official">
+<meta name="description" content="Marat Safin Official">
+<meta name="keywords" content="Marat Safin Official">
+<meta name="copyright" content="Copyright © Marat Safin Official, 2008. All rights reserved.">
+<meta name="author" content="COMRAX(r) LTD.">
+<meta name="generator" content="COMRAX(r) LTD.">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1255">
+<link rel="stylesheet" type="text/css" href="/style.php">
+<script language="JavaScript" type="text/javascript" src="/portalce.js"></script>
+<script language="JavaScript" type="text/javascript" src="/common.php"> </script>
+<script language="JavaScript" type="text/javascript" src="/rollover.js"></script>
+</head>
+
+<body><center>
+
+<!-- full body with bg -->
+<table height="100%" width="100%" class="full_page_bg" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<!-- full height inner table -->
+<td class="gen-align-center-top"><table class="specific-table-size" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<!-- top inner table -->
+<td class="gen-align-center-top"><table class="gen-align-top" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="top_lines_bg gen-align-top"><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="1" height="1" alt=""></td>
+</tr>
+
+<tr>
+<td class="gen-align-top" height="10"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/header-left.gif" border="0" width="61" height="67" alt=""></td>
+<td><a href="/"><img src="http://www.maratsafin.com/Images/header-image.gif" border="0" width="219" height="67" alt=""></a></td>
+<td><img src="http://www.maratsafin.com/Images/header-right.gif" border="0" width="469" height="67" alt=""></td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td class="gen-align-top" height="10"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="11" height="1" alt=""></td>
+<td class="top_menu_width"><table border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="41" height="1" alt=""></td>
+<td><a href="/"><img src="http://www.maratsafin.com/Images/menu_home_off.gif" border="0" width="50" height="23" alt=""></a></td>
+<td><a href="/content.php?did=10"><img src="http://www.maratsafin.com/Images/menu_news_off.gif" border="0" width="48" height="23" alt=""></a></td>
+<td><a href="/content.php?did=4"><img src="http://www.maratsafin.com/Images/menu_personal_off.gif" border="0" width="108" height="23" alt=""></a></td>
+<td><a href="/content.php?did=2"><img src="http://www.maratsafin.com/Images/menu_schedule_off.gif" border="0" width="72" height="23" alt=""></a></td>
+<td><a href="/club.php"><img src="http://www.maratsafin.com/Images/menu_club_off.gif" border="0" width="68" height="23" alt=""></a></td>
+<td><a href="/content.php?did=9"><img src="http://www.maratsafin.com/Images/menu_resources_off.gif" border="0" width="52" height="23" alt=""></a></td>
+<td><a href="http://maratsafin.freeforums.org/"><img src="http://www.maratsafin.com/Images/menu_forum_off.gif" border="0" width="53" height="23" alt=""></a></td>
+<td><a href="/contact.php"><img src="http://www.maratsafin.com/Images/menu_contact_off.gif" border="0" width="82" height="23" alt=""></a></td>
+</tr>
+
+</table></td>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="9" height="1" alt=""></td>
+</tr>
+
+</table></td>
+</tr>
+
+
+<!-- Body Wrap -->
+<tr>
+<td class="gen-align-top"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="11" height="1" alt=""></td>
+<td class="body_width" height="100%">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td class="header-menu-box" style="background: url('http://www.maratsafin.com/Images/header-image-03.jpg') top left no-repeat; height: 98px;"><br />
+<b>Warning</b>:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in <b>/var/www/www.maratsafin.com/Output/header.inc</b> on line <b>36</b><br />
+</td>
+</tr>
+
+<!-- start of main body area -->
+<tr>
+<td class="content-body" height="100%"><form action="search.php" method="GET">
+<input type="Hidden" name="f" value="5">
+<table width="100%" border="0" cellspacing="0" cellpadding="1">
+  <tr>
+    <td  bgcolor="#527B8A" nowrap><font color="#003549"><FONT color='#003549'><a class=nav href="post.php?f=5"><b>Post Message</b></a>&nbsp;|&nbsp;<a class=nav href="list.php?f=5">List of Topics</a>&nbsp;</font></font></td>
+  </tr>
+</table>
+<br>
+<table  width="100%" border="0" cellspacing="0" cellpadding="1">
+  <tr>
+    <td  bgcolor="#A5BEC6" nowrap><font color="#FFFFFF">&nbsp;Search</font></td>
+  </tr>
+  <tr>
+    <td align="CENTER" valign="MIDDLE"  bgcolor="#FFFFFF">
+    <br>
+<table cellspacing="0" cellpadding="2" border="0">
+<tr>
+    <td align="left" nowrap><font color="#08599C">Enter text to search for:&nbsp;</font></td>
+    <td nowrap><input style="width: 200px;" type="Text" name="search" size="30" value="">&nbsp;<input type="Submit" class="FormButton" value="Search">&nbsp;</td>
+</tr>
+<tr>
+    <td align="left" nowrap><font color="#08599C">Specify type of search:&nbsp;</font></td>
+    <td nowrap><font color="#08599C"><select style="width: 200px;" name="match"><option value="1" >Search for all words</option><option value="2" >Search for one of the words</option><option value="3" >Search for exact phrase</option></select></font></td>
+</tr>
+<tr>
+    <td align="left" nowrap><font color="#08599C">Limit duration:&nbsp;</font></td>
+    <td nowrap><font color="#08599C"><select style="width: 200px;" name="date"><option value="30" >Last month</option><option value="60" >Last two months</option><option value="90" >Last three months</option><option value="180" >Last half a year</option><option value="0" selected>No duration</option></select></font></td>
+</tr>
+<tr>
+    <td align="left" nowrap><font color="#08599C">Fields to search in:&nbsp;</font></td>
+    <td><font color="#08599C"><input type="checkbox" name="fldauthor" value="1" checked> Author&nbsp;&nbsp;&nbsp;<input type="checkbox" name="fldsubject" value="1" checked> Subject&nbsp;&nbsp;&nbsp;<input type="checkbox" name="fldbody" value="1" checked> Message Content&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+</table>
+</font><br></td>
+</td>
+</tr>
+</table>
+</form>
+<p>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td  bgcolor="#A5BEC6" valign="TOP" nowrap><font color="#FFFFFF">&nbsp;Search Tips</font></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="MIDDLE"  bgcolor="#FFFFFF"><font color="#08599C">AND is the default. That is, a search for <B>dog</B> and <B>cat</B> returns all messages that contain those words anywhere.<p>QUOTES (") allow searches for phrases. That is, a search for <B>"dog cat"</B> returns all messages that contain that exact phrase, with space.<p>MINUS (-) eliminates words. That is, a seach for <B>dog</B> and <B>-cat</B> returns all messages that contain <b>dog</b> but not <b>cat</b>. You can MINUS a phrase in QUOTES, like <B>dog -"siamese cat"</B>.<p>The engine is not case-sensitive and searches the title, body, and author.<br></font></td>
+  </tr>
+</table>
+
+<!-- end of main body area -->
+<table height="100%" border="0" cellpadding="0" cellspacing="0">
+
+<tr>
+<td>&nbsp;</td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td class="gen-align-bottom">&nbsp;</td>
+</tr>
+
+</table>
+
+
+<!-- end of body wrap -->
+<td><img src="http://www.maratsafin.com/Images/space.gif" border="0" width="9" height="1" alt=""></td>
+</tr>
+
+</table></td>
+</tr>
+
+</table></td>
+</tr>
+
+</table></td>
+</tr>
+
+<tr>
+<td class="gen-align-center">
+
+<table class="specific-table-size" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+
+
+<tr>
+<td align="CENTER">
+
+Copyright Marat Safin 2007, <a href="http://www.israeline.com/" target="_blank">Created by Israeline</a>.&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p>
+
+</td>
+</tr>
+
+</table></td>
+</tr>
+
+
+
+
+
+<TR><TD align="center">
+<script type="text/javascript"><!--
+  amazon_ad_tag = "marasafioffi-20";  amazon_ad_width = "728";  amazon_ad_height = "90";//--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script>
+</TR></TD>
+
+
+
+</table>
+
+</center></body>
+
+</html>
